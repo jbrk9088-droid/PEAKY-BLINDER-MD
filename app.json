@@ -2,19 +2,19 @@
   "name": "PEAKY-BLINDER-MD",
   "description": "Javascript WhatsApp bot made by ✦ Sang Lee ✦",
   "logo": "https://files.catbox.moe/7drn23.jpg",
-  "keywords": ["PEAKY-BLINDER-MD"],
+  "keywords": ["JB-BLINDER-MD"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Put your SESSION_ID here. Make sure it starts with PEAKY-BLINDER~",
+      "description": "blinder~T3RHAZAL#12nZ8-LbfH416efwA3chDagTuOmQMzTgYVeTi3UpAcM",
       "value": "",
       "required": true
     },
     "BOT_NAME": {
       "description": "write here your bot name.",
       "required": false,
-      "value": "✦『 𝑷𝑬𝑨𝑲𝒀-𝑩𝑳𝑰𝑵𝑫𝑬𝑹-𝑴𝑫 V2』✦"
+      "value": "✦『 JB-𝑩𝑳𝑰𝑵𝑫𝑬𝑹-𝑴𝑫 V2』✦"
     },
     "MODE": {
       "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
